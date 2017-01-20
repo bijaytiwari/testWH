@@ -6,3 +6,6 @@ add one more commit in the new branch
 
 
 merge to the master branch
+
+
+few more texts for new branch
